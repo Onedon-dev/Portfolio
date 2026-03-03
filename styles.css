@@ -206,7 +206,7 @@ h2{
 }
 
 .about {
-  width: 95%;
+  width: 50rem;
   margin: 5rem auto;
   padding: 20px;
   border: solid 2px rgb(19, 214, 149);
@@ -483,3 +483,4 @@ h2{
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
